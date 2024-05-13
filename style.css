@@ -1,0 +1,31 @@
+.button-animation {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+.box {
+  background-color: purple;
+  width: 200px;
+  aspect-ratio: 1;
+  /* border-radius: 50%; */
+}
+
+.stagger-animation {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+.scrolltrigger-animation {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container2 {
+  height: 100vh;
+}
